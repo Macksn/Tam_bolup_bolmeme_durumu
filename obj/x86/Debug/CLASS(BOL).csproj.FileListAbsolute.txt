@@ -1,0 +1,7 @@
+C:\Users\Win10\Desktop\nesne\CLASS(BOL)\CLASS(BOL)\bin\Debug\CLASS(BOL).exe
+C:\Users\Win10\Desktop\nesne\CLASS(BOL)\CLASS(BOL)\bin\Debug\CLASS(BOL).pdb
+C:\Users\Win10\Desktop\nesne\CLASS(BOL)\CLASS(BOL)\obj\x86\Debug\CLASS_BOL_.Form1.resources
+C:\Users\Win10\Desktop\nesne\CLASS(BOL)\CLASS(BOL)\obj\x86\Debug\CLASS_BOL_.Properties.Resources.resources
+C:\Users\Win10\Desktop\nesne\CLASS(BOL)\CLASS(BOL)\obj\x86\Debug\CLASS(BOL).csproj.GenerateResource.Cache
+C:\Users\Win10\Desktop\nesne\CLASS(BOL)\CLASS(BOL)\obj\x86\Debug\CLASS(BOL).exe
+C:\Users\Win10\Desktop\nesne\CLASS(BOL)\CLASS(BOL)\obj\x86\Debug\CLASS(BOL).pdb
